@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ann Wells PhD</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Ann Wells PhD</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Ann and this is my website. I am a postdoctoral associate at the Jackson Laboratory working with Dr. Gregory Carter. I am interested in developing new statistical tools and methods to integrate multi-omics data in an unbiased way. I am also interested in applying these methods to investigate complex diseases, particularly autoimmune diseases, and determine how gene by environment interact to develop disease. In addition to my research interests, I have a passion for data reproducibility and shareability, as well as empowering non-computational biologists to obtain the computational skills necessary to perform preliminary analyses on their own data. I do this through teaching and have also become a software carpentry instructor. When I&amp;rsquo;m not thinking about science I am often riding my bike on the beautiful park loop in Acadia National Park, going for hikes, working out, or generally enjoying the amazing island I live on.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amanda May</title>
+      <link>/authors/amanda-may/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/amanda-may/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brynn H. Voy</title>
+      <link>/authors/brynn-h.-voy/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brynn-h.-voy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David W. Threadgill</title>
+      <link>/authors/david-w.-threadgill/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/david-w.-threadgill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shawn R. Campagna</title>
+      <link>/authors/shawn-r.-campagna/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shawn-r.-campagna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Dearth</title>
+      <link>/authors/stephen-dearth/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/stephen-dearth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William T. Barrington</title>
+      <link>/authors/william-t.-barrington/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/william-t.-barrington/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
