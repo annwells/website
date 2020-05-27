@@ -56,6 +56,7 @@ superuser: true
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
 Hi! I'm Ann and this is my website. I am a postdoctoral associate at the Jackson Laboratory working with Dr. Gregory Carter. I am interested in developing new statistical tools and methods to integrate multi-omics data in an unbiased way. I am also interested in applying these methods to investigate complex diseases, particularly autoimmune diseases, and determine how gene by environment interact to develop disease. In addition to my research interests, I have a passion for data reproducibility and shareability, as well as empowering non-computational biologists to obtain the computational skills necessary to perform preliminary analyses on their own data. I do this through teaching and have also become a software carpentry instructor. When I'm not thinking about science I am often riding my bike on the beautiful park loop in Acadia National Park, going for hikes, working out, or generally enjoying the amazing island I live on."
